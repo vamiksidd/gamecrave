@@ -1,0 +1,44 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "title": "The Legend of Zelda: Breath of the Wild",
+            "slug": "zelda-breath-of-the-wild",
+            "description": "An action-adventure game set in an open world where players control Link as he embarks on a quest to defeat the Calamity Ganon.",
+            "price": 59.99,
+            "release_date": "2017-03-03"
+        },
+        {
+            "id": 2,
+            "title": "Red Dead Redemption 2",
+            "slug": "red-dead-redemption-2",
+            "description": "A western-themed action-adventure game that follows Arthur Morgan, a member of the Van der Linde gang, as he navigates the dying Wild West.",
+            "price": 49.99,
+            "release_date": "2018-10-26"
+        },
+        {
+            "id": 3,
+            "title": "Cyberpunk 2077",
+            "slug": "cyberpunk-2077",
+            "description": "A futuristic open-world RPG where players assume the role of V, a mercenary in the dystopian Night City, in pursuit of immortality.",
+            "price": 39.99,
+            "release_date": "2020-12-10"
+        },
+        {
+            "id": 4,
+            "title": "Super Mario Odyssey",
+            "slug": "super-mario-odyssey",
+            "description": "A platformer where players control Mario as he travels across various worlds to rescue Princess Peach from Bowser.",
+            "price": 49.99,
+            "release_date": "2017-10-27"
+        },
+        {
+            "id": 5,
+            "title": "GTA 6",
+            "slug": "grand theft auto",
+            "description": "Set within the fictional open world state of Leonida—based on Florida—and its Miami-inspired Vice City, the story is expected to follow criminal duo Lucia and her male partner",
+            "price": 49.99,
+            "release_date": "2017-10-27"
+        }
+    ]
+}
