@@ -31,3 +31,13 @@ body {
     text-wrap: balance;
   }
 }
+
+/* Example: Custom styling for the scrollbar */
+::webkit-scrollbar {
+  width: 5px; /* Adjust as needed */
+}
+
+::webkit-scrollbar-thumb {
+  background-color: #4a4a4a; /* Adjust to your design */
+  border-radius: 5px;
+}
