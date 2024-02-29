@@ -17,7 +17,7 @@ export default function HeroSection() {
             Stay ahead of the game as we unveil the latest releases, trends, and
             stories that shape the realms of virtual excitement. Level up your
             gaming experience with our daily dose of thrilling updates and
-            expert perspectives. Game on, and let the Chronicles unfold!"
+            expert perspectives. Game on, and let the Chronicles unfold!
           </p>
         </div>
         <div className="py-4 ">
