@@ -14,10 +14,7 @@ export default function HeroSection() {
             className="mt-1 bg-clip-text text-transparent md:max-w-[70%]
         bg-gradient-to-t from-neutral-50 to bg-neutral-400"
           >
-            Stay ahead of the game as we unveil the latest releases, trends, and
-            stories that shape the realms of virtual excitement. Level up your
-            gaming experience with our daily dose of thrilling updates and
-            expert perspectives. Game on, and let the Chronicles unfold!
+           Stay at the forefront as we reveal the newest releases, trends, and narratives influencing the realms of virtual excitement. Enhance your gaming adventure with our daily infusion of exciting updates and expert insights. Dive into the Chronicles and elevate your gaming experience! Game on
           </p>
         </div>
         <div className="py-4 ">
